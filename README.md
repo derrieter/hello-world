@@ -1,2 +1,2 @@
 # hello-world
-Git 1th day
+Git 1st day
